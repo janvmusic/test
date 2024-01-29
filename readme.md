@@ -1,5 +1,5 @@
 ## TITLE
-This is staging
+Release time!
 
 ### SUBTITLE
 content
