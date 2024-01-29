@@ -1,5 +1,5 @@
 ## TITLE
-content
+Release time!
 
 ### SUBTITLE
 content
